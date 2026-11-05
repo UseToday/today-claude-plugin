@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "TODAY": {
+      "type": "http",
+      "url": "https://mcp.usetoday.io/mcp"
+    }
+  }
+}

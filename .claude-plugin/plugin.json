@@ -1,0 +1,25 @@
+{
+  "name": "today",
+  "displayName": "TODAY",
+  "version": "0.1.0",
+  "description": "Read-only access to an advisor's customers and meetings inside Claude: search customers and calls, open call details, and read extracted CRM data and cumulative facts.",
+  "author": {
+    "name": "TODAY",
+    "url": "https://www.usetoday.io"
+  },
+  "homepage": "https://www.usetoday.io",
+  "repository": "https://github.com/UseToday/today-external-apps",
+  "keywords": [
+    "crm",
+    "sales",
+    "advisors",
+    "meetings",
+    "calls",
+    "conversation-intelligence"
+  ],
+  "icon": "./assets/logo.svg",
+  "documentationUrl": "https://www.usetoday.io",
+  "supportUrl": "https://help.usetoday.io/",
+  "privacyPolicyUrl": "https://www.usetoday.io/legal/privacy-policy",
+  "termsOfServiceUrl": "https://www.usetoday.io/legal/terms-and-conditions"
+}
